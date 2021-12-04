@@ -1,0 +1,14 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is 684A-7BF4
+
+ Directory of C:\Users\sandh\Desktop\Lproject1
+
+04/12/2021  14:58    <DIR>          .
+04/12/2021  09:39    <DIR>          ..
+04/12/2021  07:45                22 index.html
+04/12/2021  09:19               947 ls
+04/12/2021  14:58                 0 me.txt
+04/12/2021  09:23               110 sample.txt
+04/12/2021  07:44                 8 test1.txt
+               5 File(s)          1,087 bytes
+               2 Dir(s)  173,063,938,048 bytes free
