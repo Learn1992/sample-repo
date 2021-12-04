@@ -1,1 +1,2 @@
 this is first lin in kon file
+this is second line in kon file
