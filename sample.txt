@@ -1,3 +1,0 @@
-This is the first line in sample file
-THis is second line in sample file
-This is third line in sample file
