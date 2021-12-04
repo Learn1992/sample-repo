@@ -1,1 +1,1 @@
-kon.txt
+this is first lin in kon file
