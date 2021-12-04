@@ -1,1 +1,2 @@
 This is first line in alpha.txt
+This is second line in alpha.txt
