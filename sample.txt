@@ -7,3 +7,4 @@ This is sixth line in sample.txt
 This is seventh line in sample.txt
 This is eighth line in sampl.txt
 This is nineth line in sample.txt
+This is tenth line in sample.txt
