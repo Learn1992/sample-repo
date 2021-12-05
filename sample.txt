@@ -4,7 +4,12 @@ This is third line in sample.txt
 This is fourth lin in sample.txt
 This is fifth line in sample.txt
 This is sixth line in sample.txt
+<<<<<<< HEAD
 This is seventh line in sample.txt
 This is eighth line in sampl.txt
 This is nineth line in sample.txt
 This is tenth line in sample.txt
+=======
+This is seventh line in samplt.txt
+This is eight line in sample.txt
+>>>>>>> d0a008cb85359e451e850e0211c24853e03eab63
